@@ -1,0 +1,4 @@
+{% extends "base.html" %}
+{% block menu %}{% set current_page = 'Index' %}{% include "menu.html" %}{% endblock %}
+{% block content_title %}{{ PAGES[0].title }}{% endblock %}
+{% block content %}{{ PAGES[0].content }}{% endblock content %}
