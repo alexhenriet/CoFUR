@@ -93,7 +93,7 @@ Articles intéressants
 Blogs - planets - communautés Ruby et Rails
 -------------------------------------------
 
-- <http://rubylive.fr/>
+- <http://news.humancoders.com/t/ruby>
 - <http://ruby.developpez.com/>
 - <http://www.synbioz.com/blog/category/ruby>
 - <http://blog.shingara.fr/>
@@ -174,13 +174,13 @@ Des offres d'emplois en Belgique sont reprises sur la page **[En Belgique](ruby-
 Formations
 ----------
 
-- <http://formations.humancoders.com/courses/formation-ruby-on-rails>
+- <http://formations.humancoders.com/formations/ruby>
   (France)
-- <http://www.plb.fr/formation/open-source/formation-ruby,10-298.php>
+- <http://formations.humancoders.com/formations/ruby-on-rails>
+  (France)
+- <http://formations.humancoders.com/formations/tests-avec-ruby-on-rails>
   (France)
 - <http://www.synbioz.com/formations> (France)
-- <http://www.alterway.fr/formation/formation-ruby-rails-des-bases-a-la-maitrise>
-  (France)
 - <http://www.jumpstartlab.com/courses/> (Etats-unis)
 - <http://www.codeschool.com/courses/try-ruby> (online)
 
