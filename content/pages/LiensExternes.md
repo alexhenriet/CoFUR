@@ -93,17 +93,17 @@ Articles intéressants
 Blogs - planets - communautés Ruby et Rails
 -------------------------------------------
 
-- <http://rubylive.fr/>
+- <https://news.humancoders.com/t/ruby>
 - <http://ruby.developpez.com/>
 - <http://www.synbioz.com/blog/category/ruby>
 - <http://blog.shingara.fr/>
 - <http://ct2c-on-rails.blogspot.fr/>
 - <http://www.bonjourgem.com/>
 - <http://dev.af83.com/>
-- <http://matthieusegret.com/>
+- <https://blog.matthieusegret.com/>
 - <http://blog.spidou.com/category/ruby_rails/>
 - <http://blog.happynoff.fr/>
-- <http://www.camilleroux.com/tag/formation/>
+- <https://www.camilleroux.com/tag/formation/>
 - *(en)* <http://blog.grayproductions.net/>
 - *(en)* <http://solnic.eu/tags/ruby>
 - *(en)* <http://www.softr.li/>
@@ -165,7 +165,7 @@ Services développés en Ruby on Rails
 Offres d'emplois
 ----------------
 
-- <http://jobs.humancoders.com/> (France)
+- <https://jobs.humancoders.com/> (France)
 - <http://af83.com/fr/jobs> (France)
 - <http://www.6wunderkinder.com/jobs/> (Berlin, Allemagne)
 
@@ -174,7 +174,7 @@ Des offres d'emplois en Belgique sont reprises sur la page **[En Belgique](ruby-
 Formations
 ----------
 
-- <http://formations.humancoders.com/courses/formation-ruby-on-rails>
+- <https://www.humancoders.com/formations/ruby-on-rails>
   (France)
 - <http://www.plb.fr/formation/open-source/formation-ruby,10-298.php>
   (France)
